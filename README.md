@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhondiramjawade
-- 👀 I’m interested in Javascript, Angualr, React.
-- 🌱 I’m currently learning python. 
+- 👀 I’m interested in Javascript, Angualr.
+- 🌱 I’m currently learning JS Frameworks. 
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 
