@@ -6,7 +6,7 @@ My blogs:
 - Angular modularity guide - https://medium.com/@ram.dev/angular-modularity-guide-7cae69c69a5d
 - Leaflet - Comming soon.
 
-Github pages
+Github pages (Developed example)
 - Open https://dhondiramjawade.github.io/open/
 <!---
 dhondiramjawade/dhondiramjawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
