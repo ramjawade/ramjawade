@@ -9,6 +9,7 @@ My blogs:
 Github pages (Developed example)
 - Open https://dhondiramjawade.github.io/open/
 - CRUD demo https://dhondiramjawade.github.io/gx-demo
+- Sample Angular https://dhondiramjawade.github.io/angular/
 <!---
 dhondiramjawade/dhondiramjawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
