@@ -11,7 +11,6 @@ Github pages (Developed example)
 - CRUD demo https://dhondiramjawade.github.io/gx-demo
 - Sample Angular https://dhondiramjawade.github.io/angular
 - Sample Student https://dhondiramjawade.github.io/student
-- 
 <!---
 dhondiramjawade/dhondiramjawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
