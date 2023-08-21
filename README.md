@@ -8,10 +8,10 @@ My blogs:
 - Leaflet - Comming soon.
 
 Github pages (Developed example)
-- Open https://dhondiramjawade.github.io/open/
-- CRUD demo https://dhondiramjawade.github.io/gx-demo
-- Sample Angular https://dhondiramjawade.github.io/angular
-- Sample Student https://dhondiramjawade.github.io/student
+- Open https://ramjawade.github.io/open/
+- CRUD demo https://ramjawade.github.io/gx-demo
+- Sample Angular https://ramjawade.github.io/angular
+- Sample Student https://ramjawade.github.io/student
 <!---
 dhondiramjawade/dhondiramjawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes .
