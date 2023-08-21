@@ -1,5 +1,5 @@
 
- - Hi, I’m @dhondiramjawade. I’m interested in **Javascript, Angualr frameworks.**
+ - Hi, I’m @ramjawade. I’m interested in **Javascript, Angualr frameworks.**
  - Always open **source projects reach** out to me for **collaboration**.
 - Follow me on Twitter [Twitter|://twitter.com/ramjawade_dev?t=ZwFH5P2DfcgtdzQUuWgNoA&s=09]
 
