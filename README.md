@@ -1,6 +1,6 @@
 
  - Hi, I’m @ramjawade. I’m interested in **Javascript, Typescript frameworks and libraries like Angualr, NX, Ngrx, Storybook, Bazel, etc**
- - Always open for **collaboration** in **open source projects reach**.
+ - Always open for **collaboration** in **open source projects**.
 - Follow me on Twitter [https://twitter.com/ramjawade_dev?t=ZwFH5P2DfcgtdzQUuWgNoA&s=09]
 
 My blogs:
