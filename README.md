@@ -1,5 +1,5 @@
 
- - Hi, I’m @ramjawade. I’m interested in **Javascript, Angualr frameworks.**
+ - Hi, I’m @ramjawade. I’m interested in **Javascript, Typescript frameworks and libraries like Angualr, NX, Ngrx, Storybook, Bazel**
  - Always open **source projects reach** out to me for **collaboration**.
 - Follow me on Twitter [https://twitter.com/ramjawade_dev?t=ZwFH5P2DfcgtdzQUuWgNoA&s=09]
 
